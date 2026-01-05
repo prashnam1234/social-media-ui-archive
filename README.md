@@ -2,7 +2,7 @@
 [Click here to view the live project](https://prashnam1234.github.io/social-media-ui-archive/)
 # Social Media UI Clone (2023 Archive)
 
-> 🏛️ **Historical Project:** Preserved to document my early frontend engineering journey.
+> 🏛️ **Historical Project:**Preserved as an archive of my very first code, written at age 15.
 > **Built:** 2023 (When I was 15y) | **Status:** Archived
 
 ### 📝 Project Overview
