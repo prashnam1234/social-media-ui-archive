@@ -1,3 +1,5 @@
+### 🚀 Live Demo
+[Click here to view the live project](https://prashnam1234.github.io/social-media-ui-archive/)
 # Social Media UI Clone (2023 Archive)
 
 > 🏛️ **Historical Project:** Preserved to document my early frontend engineering journey.
