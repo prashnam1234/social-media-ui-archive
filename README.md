@@ -3,7 +3,7 @@
 # Social Media UI Clone (2023 Archive)
 
 > 🏛️ **Historical Project:**Preserved as an archive of my very first code, written at age 15.
-> **Built:** 2023 (When I was 15y) | **Status:** Archived
+> **Built:** 2023 | **Status:** Archived
 
 ### 📝 Project Overview
 This was my first attempt at reverse engineering a major platform (Facebook).
